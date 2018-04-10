@@ -1,0 +1,40 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     8081 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Anirudh Important files\Second semester books\Virtual Reality\Project_Anirudh_Balaji\Final Project\EXEBuild\GAME_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.688731 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1498 -> priority: 1 
+  Thread -> id: f30 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.108470 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 0.467145 ms (FindLiveObjects: 0.040113 ms CreateObjectMapping: 0.015680 ms MarkObjects: 0.216615 ms  DeleteObjects: 0.193641 ms)
+
